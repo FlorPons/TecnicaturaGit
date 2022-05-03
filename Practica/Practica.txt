@@ -1,1 +1,3 @@
 esta es mi primera linea de texto de la clase 3
+agregamos una segunda linea a nuestro archivo
+estamos viendo algunos comandos de git
