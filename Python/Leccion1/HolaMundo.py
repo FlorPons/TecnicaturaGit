@@ -42,7 +42,7 @@ print(int(numero1) + int(numero2))
 #Tipos Booleanos (bool)
 miBooleano = True
 print(miBooleano)
-miBooleano = 2
+miBooleano = 2>3
 print(miBooleano)
 
 if miBooleano:
