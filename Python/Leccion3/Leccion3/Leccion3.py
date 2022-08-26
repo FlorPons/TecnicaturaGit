@@ -34,11 +34,29 @@ else:
     print('Fin del ciclo for')'''
 
 #Palabra reservada continue
-for i in range(6):
+'''for i in range(6):
     if i % 2 == 0:
         print(f'Valor: {i}')
 
 for i in range(6):
     if i % 2 != 0:
         continue
-    print(f'Valor: {i}')
+    print(f'Valor: {i}')'''
+
+#Diseñar un programa en el que ingresando un año,
+#nos devuelva por consola si es un año bisiesto o no,
+#hasta que el usuario lo decida.
+
+condicion = True
+while condicion:
+    print('Ejecutando el ciclo while')
+else:
+    print('Fin del ciclo while')
+
+
+
+
+
+
+
+
